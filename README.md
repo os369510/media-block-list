@@ -1,4 +1,4 @@
-## Uasage  
+## Description
 面對這些親中媒體  
 除了憤怒 我們還能做什麼呢  
 就讓我們把相關集團媒體旗下所有事業的網址找出來  
@@ -34,10 +34,17 @@ Knowing www.knowing.asia
 天下文化集團（遠見雜誌）bookzone.cwgv.com.tw www.gvm.com.tw  
 時報周刊 ctweekly.chinatimes.com  
 
+## Blocking Method
+For Chrome:  
+Step.1 Download "Block Site" extention
+https://chrome.google.com/webstore/detail/block-site/lebiggkccaodkkmjeimmbogdedcpnmfb?hl=en  
+Step.2 Copy and paste the list of media
+
 ## 好複製區
 ```
 www.chinatimes.com
-m.ctee.com.tw ctee.com.tw
+m.ctee.com.tw
+ctee.com.tw
 showbar.ctitv.com.tw
 gotv.ctitv.com.tw
 www.ctitv.com.tw
@@ -55,13 +62,15 @@ udn.com
 www.cdns.com.tw
 taiwan-reports.com
 news.tvbs.com.tw
-www.ettoday.net news.ebc.net.tw
+www.ettoday.net
+news.ebc.net.tw
 www.crntt.tw
 www.knowing.asia
 www.ctia.com.tw
 www.cnyes.com
 www.motherlandchina.com
-bookzone.cwgv.com.tw www.gvm.com.tw
+bookzone.cwgv.com.tw
+www.gvm.com.tw
 ctweekly.chinatimes.com
 ``` 
 

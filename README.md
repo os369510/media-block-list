@@ -13,7 +13,6 @@
 -中天電視 www.ctitv.com.tw  
 -黑劍製作公司 www.cnplus.com.tw  
 -中旺電視 www.nettv.live  
--中天 www.ctitv.com.tw  
 -時報資訊股份有限公司 infotimes.com.tw  
 -必POTV bepo.ctitv.com.tw  
 -Styletc樂時尚 styletc.chinatimes.com  
@@ -34,11 +33,13 @@ Knowing www.knowing.asia
 天下文化集團（遠見雜誌）bookzone.cwgv.com.tw www.gvm.com.tw  
 時報周刊 ctweekly.chinatimes.com  
 
-## Blocking Method
-For Chrome:  
-Step.1 Download "Block Site" extention
-https://chrome.google.com/webstore/detail/block-site/lebiggkccaodkkmjeimmbogdedcpnmfb?hl=en  
-Step.2 Copy and paste the list of media
+## Chrome
+Step.1 Download [block-list.csv](https://github.com/os369510/media-block-list/block-list.csv)
+Step.2 Download [Block Site](https://chrome.google.com/webstore/detail/block-site/lebiggkccaodkkmjeimmbogdedcpnmfb?hl=en) extention  
+![image](https://github.com/os369510/media-block-list/chrome/step2.png)
+Step.3 打開擴充套件後 點選下方 '↑' (Import list) 上傳block-list.csv
+![image](https://github.com/os369510/media-block-list/chrome/step3.png)
+Step.4 完成！ 點擊已確認是否成功 [點我](www.ctitv.com.tw)
 
 ## 好複製區
 ```
@@ -50,7 +51,6 @@ gotv.ctitv.com.tw
 www.ctitv.com.tw
 www.cnplus.com.tw
 www.nettv.live
-www.ctitv.com.tw
 infotimes.com.tw
 bepo.ctitv.com.tw
 styletc.chinatimes.com
@@ -189,6 +189,5 @@ ctweekly.chinatimes.com
 李柏橖 旺旺集團北京總廠長  
 
 ## Reference  
-https://www.facebook.com/100000222035259/posts/2660590870624955  
-https://hackmd.io/s/BJepntX3N?fbclid=IwAR1_zmbTI0MDu_IHjc8quYMxD0rnk3WgNGsEPzhyr34Ir0fo4Uzql6VvEo8  
-https://zh.wikipedia.org/wiki/%E6%97%BA%E6%97%BA%E4%B8%AD%E6%99%82%E5%AA%92%E9%AB%94%E9%9B%86%E5%9C%98  
+[hackmd](https://hackmd.io/s/BJepntX3N?fbclid=IwAR1_zmbTI0MDu_IHjc8quYMxD0rnk3WgNGsEPzhyr34Ir0fo4Uzql6VvEo8)
+[旺中wiki](https://zh.wikipedia.org/wiki/%E6%97%BA%E6%97%BA%E4%B8%AD%E6%99%82%E5%AA%92%E9%AB%94%E9%9B%86%E5%9C%98)

@@ -191,5 +191,5 @@ ctweekly.chinatimes.com
 李柏橖 旺旺集團北京總廠長  
 
 ## Reference  
-[hackmd](https://hackmd.io/s/BJepntX3N?fbclid=IwAR1_zmbTI0MDu_IHjc8quYMxD0rnk3WgNGsEPzhyr34Ir0fo4Uzql6VvEo8)
-[旺中wiki](https://zh.wikipedia.org/wiki/%E6%97%BA%E6%97%BA%E4%B8%AD%E6%99%82%E5%AA%92%E9%AB%94%E9%9B%86%E5%9C%98)
+[hackmd](https://hackmd.io/s/BJepntX3N?fbclid=IwAR1_zmbTI0MDu_IHjc8quYMxD0rnk3WgNGsEPzhyr34Ir0fo4Uzql6VvEo8)  
+[旺中Wiki](https://zh.wikipedia.org/wiki/%E6%97%BA%E6%97%BA%E4%B8%AD%E6%99%82%E5%AA%92%E9%AB%94%E9%9B%86%E5%9C%98)  

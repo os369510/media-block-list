@@ -1,4 +1,4 @@
-## Description
+## 描述
 面對這些親中媒體  
 除了憤怒 我們還能做什麼呢  
 就讓我們把相關集團媒體旗下所有事業的網址找出來  
@@ -34,12 +34,13 @@ Knowing www.knowing.asia
 時報周刊 ctweekly.chinatimes.com  
 
 ## Chrome
-Step.1 Download [block-list.csv](https://github.com/os369510/media-block-list/block-list.csv)
-Step.2 Download [Block Site](https://chrome.google.com/webstore/detail/block-site/lebiggkccaodkkmjeimmbogdedcpnmfb?hl=en) extention  
-![image](https://github.com/os369510/media-block-list/chrome/step2.png)
-Step.3 打開擴充套件後 點選下方 '↑' (Import list) 上傳block-list.csv
-![image](https://github.com/os369510/media-block-list/chrome/step3.png)
-Step.4 完成！ 點擊已確認是否成功 [點我](www.ctitv.com.tw)
+Step.1 下載 (右鍵->save as)
+[block-list.csv](https://raw.githubusercontent.com/os369510/media-block-list/master/block-list.csv)  
+Step.2 安裝 [Block Site](https://chrome.google.com/webstore/detail/block-site/lebiggkccaodkkmjeimmbogdedcpnmfb?hl=en) extention    
+![image](https://github.com/os369510/media-block-list/blob/master/chrome/step2.png)  
+Step.3 打開擴充套件後 點選下方 '↑' (Import list) 上傳block-list.csv  
+![image](https://github.com/os369510/media-block-list/blob/master/chrome/step3.png)  
+Step.4 完成！ 點擊已確認是否成功 [點我](www.ctitv.com.tw)  
 
 ## 好複製區
 ```

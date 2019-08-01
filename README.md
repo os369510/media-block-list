@@ -43,6 +43,45 @@ Step.3 打開擴充套件後 點選下方 '↑' (Import list) 上傳block-list.c
 ![image](chrome/step3.png)  
 Step.4 完成！ 點擊已確認是否成功 [點我](https://www.ctitv.com.tw)  
 
+## Unix base distribution  
+Please make sure what you're doing before appending following list in to /etc/hosts  
+```
+$ cat /etc/hosts
+# Static table lookup for hostnames.
+# See hosts(5) for details.
+#
+# Blocking disinformation provider
+127.0.0.1 	www.chinatimes.com
+127.0.0.1 	m.ctee.com.tw
+127.0.0.1 	ctee.com.tw
+127.0.0.1 	showbar.ctitv.com.tw
+127.0.0.1 	gotv.ctitv.com.tw
+127.0.0.1 	www.ctitv.com.tw
+127.0.0.1 	www.cnplus.com.tw
+127.0.0.1 	www.nettv.live
+127.0.0.1 	infotimes.com.tw
+127.0.0.1 	bepo.ctitv.com.tw
+127.0.0.1 	styletc.chinatimes.com
+127.0.0.1 	www.luckydog.tw
+127.0.0.1 	lecoin.cc
+127.0.0.1 	new.ctv.com.tw
+127.0.0.1 	money.udn.com
+127.0.0.1 	udn.com
+127.0.0.1 	www.cdns.com.tw
+127.0.0.1 	taiwan-reports.com
+127.0.0.1 	news.tvbs.com.tw
+127.0.0.1 	www.ettoday.net
+127.0.0.1 	news.ebc.net.tw
+127.0.0.1 	www.crntt.tw
+127.0.0.1 	www.knowing.asia
+127.0.0.1 	www.ctia.com.tw
+127.0.0.1 	www.cnyes.com
+127.0.0.1 	www.motherlandchina.com
+127.0.0.1 	bookzone.cwgv.com.tw
+127.0.0.1 	www.gvm.com.tw
+127.0.0.1 	ctweekly.chinatimes.com
+```
+
 ## 好複製區
 ```
 www.chinatimes.com

@@ -30,7 +30,6 @@ Knowing www.knowing.asia
 時際創意傳媒 www.ctia.com.tw  
 巨亨網 www.cnyes.com  
 祖國文摘 www.motherlandchina.com  
-天下文化集團（遠見雜誌）bookzone.cwgv.com.tw www.gvm.com.tw  
 時報周刊 ctweekly.chinatimes.com  
 
 ## Chrome
@@ -77,7 +76,6 @@ $ cat /etc/hosts
 127.0.0.1 	www.ctia.com.tw
 127.0.0.1 	www.cnyes.com
 127.0.0.1 	www.motherlandchina.com
-127.0.0.1 	bookzone.cwgv.com.tw
 127.0.0.1 	www.gvm.com.tw
 127.0.0.1 	ctweekly.chinatimes.com
 ```
@@ -110,7 +108,6 @@ www.knowing.asia
 www.ctia.com.tw
 www.cnyes.com
 www.motherlandchina.com
-bookzone.cwgv.com.tw
 www.gvm.com.tw
 ctweekly.chinatimes.com
 ``` 
@@ -184,7 +181,7 @@ ctweekly.chinatimes.com
 
 雜誌  
 戚嘉林 祖國文摘社長  
-石靜文 天下文化集團（遠見雜誌）顧問  
+石靜文 天下文化集團（遠見雜誌）顧問[1]  
 陳肅瑜 時報周刊社長  
 
 出版界  
@@ -232,3 +229,4 @@ ctweekly.chinatimes.com
 ## Reference  
 [hackmd](https://hackmd.io/s/BJepntX3N?fbclid=IwAR1_zmbTI0MDu_IHjc8quYMxD0rnk3WgNGsEPzhyr34Ir0fo4Uzql6VvEo8)  
 [旺中Wiki](https://zh.wikipedia.org/wiki/%E6%97%BA%E6%97%BA%E4%B8%AD%E6%99%82%E5%AA%92%E9%AB%94%E9%9B%86%E5%9C%98)  
+[被吃豆腐成「被統戰」工具？石靜文同意應連署聲明反對](https://reurl.cc/qDeyVE)  

@@ -76,7 +76,6 @@ $ cat /etc/hosts
 127.0.0.1 	www.ctia.com.tw
 127.0.0.1 	www.cnyes.com
 127.0.0.1 	www.motherlandchina.com
-127.0.0.1 	www.gvm.com.tw
 127.0.0.1 	ctweekly.chinatimes.com
 ```
 
